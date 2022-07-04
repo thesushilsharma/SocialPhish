@@ -1,6 +1,6 @@
 # SocialPhish v2.0
 ## UPDATES :
-##### Ngrok authtoken update (Enhanced ngrok tunnelling)
+##### Ngrok authtoken update (Enhanced ngrok tunnelling and Stable with Ngrok v3)
 ##### Fix ngrok direct link
 ##### Tracking location
 ##### Updated code structure and style
@@ -27,7 +27,7 @@ Usage of SocialPhish for attacking targets without prior mutual consent is illeg
 git clone https://github.com/xHak9x/SocialPhish.git
 cd SocialPhish
 chmod +x socialphish.sh
-./socialphish.sh
+sudo bash socialphish.sh
 ```
 
 ###### Donate! 
